@@ -111,6 +111,13 @@ Passionate about building innovative solutions
         <a href=""><img alt="Cloudflare"
                 src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"></a>
     </p>
+    <h3>ai_agents</h3>
+    <p>
+        <a href="https://v0.dev"><img alt="V0"
+                src="https://img.shields.io/badge/V0-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+        <a href="https://www.augmentcode.com"><img alt="Augment Code"
+                src="https://img.shields.io/badge/Augment%20Code-6366F1?style=for-the-badge&logo=ai&logoColor=white"></a>
+    </p>
 
 </div>
 
