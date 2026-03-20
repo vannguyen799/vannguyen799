@@ -7,8 +7,11 @@ I enjoy building things from scratch — from system design to writing code.
 ---
 
 **Frontend** · React · Next.js · Vue · Nuxt · TailwindCSS
+
 **Backend** · Node.js · Python · Express · TypeScript
+
 **Database** · MongoDB · PostgreSQL · Redis · Supabase
+
 **Infra** · Docker · Cloudflare · Vercel
 
 ---
