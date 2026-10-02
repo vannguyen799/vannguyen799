@@ -16,4 +16,4 @@ I enjoy building things from scratch — from system design to writing code.
 
 ---
 
-<a href="mailto:nguyenbavan799@gmail.com">Email</a> · <a href="https://nguyenbavan-cv.vercel.app">CV</a>
+<a href="mailto:nguyenbavan799@gmail.com">Email</a>
